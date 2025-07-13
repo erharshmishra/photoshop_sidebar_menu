@@ -40,11 +40,11 @@ https://photoshop-sidebar-menu.onrender.com
 - Colors and styling in style.css
 
 ## 👨‍💻 Author
-Harsh Mishra
-**Feel free to connect or reach out on:**
-GitHub : https://github.com/erharshmishra
-LinkedIn : https://www.linkedin.com/in/harshmishra8103/
-Email : harshmishra8103@gmail.com
+Harsh Mishra <br>
+**Feel free to connect or reach out on:** <br>
+GitHub : https://github.com/erharshmishra <br>
+LinkedIn : https://www.linkedin.com/in/harshmishra8103/ <br>
+Email : harshmishra8103@gmail.com <br>
 
 ## 📄 License
 This project is open-source and free to use under the MIT License.
