@@ -42,9 +42,9 @@ https://photoshop-sidebar-menu.onrender.com
 ## 👨‍💻 Author
 Harsh Mishra
 **Feel free to connect or reach out on:**
-GitHub : 
-LinkedIn :
-Email : 
+GitHub : https://github.com/erharshmishra
+LinkedIn : https://www.linkedin.com/in/harshmishra8103/
+Email : harshmishra8103@gmail.com
 
 ## 📄 License
 This project is open-source and free to use under the MIT License.
